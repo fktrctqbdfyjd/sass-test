@@ -20,6 +20,15 @@
         }
     }
 
+    &--green {
+        background-color: $color-main-green;
+        color: $color-white;
+
+        &::after {
+            background-color: $color-main-green;
+        }
+    }
+
     &:hover {
         transform: translateY(-0.3rem);
         box-shadow: 0 1rem 2rem rgba($color-black,.2);
