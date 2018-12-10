@@ -1,1 +1,1 @@
-Learning basics of sass / responsive design
+https://fktrctqbdfyjd.github.io/sass-test/
